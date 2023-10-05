@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'AR One Sans', sans-serif;
+}.back-ground{
+
+background-size: cover;
+background-position: center;
+position: relative;
+height: 500px;
+background-image: linear-gradient(rgba(94, 192, 107, 0.7),rgba(0,0,0,0.7)),url('https://www.uidownload.com/files/106/932/1005/small-country-cartoon-house-background-free-vector.jpg')
+  
+
+}.text-tex{
+    text-transform: uppercase;
+    width: 660px;
+    margin-left: 20px;
+    padding: 5px;
+    color: white;
+   
+    
+}.text-tex h1{
+    margin: 20px;
+}.text-tex h3{
+    letter-spacing: 0.1px;
+    font-size: 15px;
+    margin-left: 15px;
+}
